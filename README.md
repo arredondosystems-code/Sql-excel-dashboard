@@ -1,3 +1,16 @@
+Project: SQL & Excel Pizza Sales Dashboard
+
+Designed and developed a dynamic Excel dashboard using SQL queries as the data foundation.
+
+Extracted and analyzed key business metrics including total revenue, average order value, sales by category and size, and best/worst-selling products.
+
+Applied pivot tables, slicers, and charts to create an interactive report that highlights sales trends and customer behavior.
+
+Automated calculations and visualizations to provide stakeholders with actionable insights for decision-making.
+
+Demonstrated proficiency in SQL (data extraction), Excel (pivot tables, dashboards, data cleaning), and business intelligence reporting.
+
+
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f7e2e0b-58ea-4b79-81e8-6e64d72c7a2b" />
